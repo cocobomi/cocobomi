@@ -1,5 +1,7 @@
-### Hi there 👋
+<img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FFB2F5?style=flat-square&logo=&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/iOS-3DDC84?style=flat-square&logo=&logoColor=white"/>
+
+
+### Hi there 👋
 
 
